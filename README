@@ -11,7 +11,7 @@ package, or you may obtain a copy of the License at
 
 Dependencies:
 
-Libamqp-py is a Python wrapper for libamqp. The intention is to provide a thead 
+Libamqp-py is a Python wrapper for libamqp. The intention is to provide a thread 
 safe AMQP 1.0 client for Python 2.7 and 3.2.
 
 Authors:
